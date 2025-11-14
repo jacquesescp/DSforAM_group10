@@ -13,7 +13,7 @@ This repository contains the project work for the **Data Science for Asset Manag
 
 ## ⚠️ Project Status
 
-**Please note:** The code in this repository is a work in progress. The main notebook (`SharkRisk_Notebook`) is the most complete version of our analysis, but it is not finalized. The `/drafts` folder contains experimental code that is interesting but unfinished.
+**Please note:** The code in this repository is a work in progress. The main notebook (`SharkRisk_Notebook`) is the most complete version of our analysis, but it is not finalized. The `/project_code/drafts` folder contains experimental code that is interesting but unfinished.
 
 ---
 
@@ -26,7 +26,7 @@ This repository is organized into two main directories:
 This folder contains all the Python scripts and notebooks related to the core analysis of the project.
 
 * `SharkRisk_Notebook.ipynb`: This is the main notebook for the project and contains our most developed analysis.
-* `/project_code/drafts`: This sub-directory holds various exploratory notebooks, code trials, and experimental approaches. These files are not part of the final pipeline but are saved for reference.
+* `/drafts`: This sub-directory holds various exploratory notebooks, code trials, and experimental approaches. These files are not part of the final pipeline but are saved for reference.
 
 ### 2. `/Reports & Generation Notebooks`
 
