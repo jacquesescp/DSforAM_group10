@@ -26,12 +26,12 @@ This repository is organized into two main directories:
 This folder contains all the Python scripts and notebooks related to the core analysis of the project.
 
 * `SharkRisk_Notebook.ipynb`: This is the main notebook for the project and contains our most developed analysis.
-* `/drafts`: This sub-directory holds various exploratory notebooks, code trials, and experimental approaches. These files are not part of the final pipeline but are saved for reference.
+* `/project_code/drafts`: This sub-directory holds various exploratory notebooks, code trials, and experimental approaches. These files are not part of the final pipeline but are saved for reference.
 
 ### 2. `/Reports & Generation Notebooks`
 
 This folder contains the final deliverables (reports) and the notebooks used to create them.
 
 * **Report Generation Notebooks:** Jupyter notebooks used to generate the data, visualizations, and text for the final reports (e.g., `Collaboration Report Generation.ipynb`, `Final Report Generation.ipynb`).
-* `/images`: Contains all charts, graphs, and other images that were generated and included in the final reports.
+* Contains all images that were generated and included in the final reports.
 * **PDF Reports:** The final submitted versions of the **Collaboration Report** and the **Final Report** in PDF format.
